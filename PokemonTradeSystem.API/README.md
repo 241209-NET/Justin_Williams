@@ -3,6 +3,11 @@
 ## Project members
 - Justin Williams
 
+## Project Requirements
+- Application must build and run.
+- Unit testing for 20% of code
+- 
+
 ## User Stories
 - User should be able to register a new account with username and password.
 - User should be able to log into their account with their credentials.
@@ -15,7 +20,10 @@
 - User should be able to accept a trade request in which they trade one of their pokemon for another user's so long as the pokemon they selected meets the requested specifications of the other user. 
 
 ## MVP Goals
-
+- Users can login and register accounts.
+- Users can add/delete pokemon.
+- Users can view their pokemon.
+- Users can post/accept trades with other users.
 
 ## Stretch Goals
 - Include a badge system where users earn badges for making certain trades. 
