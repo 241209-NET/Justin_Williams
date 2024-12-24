@@ -19,6 +19,9 @@
 - User should be able to view all trade requests posted by other users.
 - User should be able to accept a trade request in which they trade one of their pokemon for another user's so long as the pokemon they selected meets the requested specifications of the other user. 
 
+## Entity Relationship Diagram
+![ERD](./ERD.png)
+
 ## MVP Goals
 - Users can login and register accounts.
 - Users can add/delete pokemon.
